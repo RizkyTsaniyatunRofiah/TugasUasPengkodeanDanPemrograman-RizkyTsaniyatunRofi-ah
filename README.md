@@ -1,7 +1,6 @@
-# TugasUasPengkodeanDanPemrograman-RizkyTsaniyatunRofi-ah
+# TugasUasDataAnalitikPengkodeanDanPemrograman-RizkyTsaniyatunRofi-ah
 
-# TUGAS DATA ANALITIK 
-Tugas ini dibuat Untuk memenuhi ujian akhir semester mata kuliah pengkodean dan pemrograman yang diampu oleh Dr. Totok Dewayanto, SE., Msi., Akt. Saya Rizky Tsaniyatun Rofiah dengan NIM 12030122120059 telah menyelesaikan UAS Data Analitik
+Saya Rizky Tsaniyatun Rofiah dengan NIM 12030122120059 telah menyelesaikan UAS Data Analitik untuk memenuhi ujian akhir semester mata kuliah pengkodean dan pemrograman yang diampu oleh Dr. Totok Dewayanto, SE., Msi., Akt.
 
 # TUGAS PENGKODEAN DAN PEMROGRAMAN
 
