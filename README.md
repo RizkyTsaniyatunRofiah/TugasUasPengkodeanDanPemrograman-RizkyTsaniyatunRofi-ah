@@ -11,23 +11,3 @@ NIM                 : 12030122120059
 
 Mata Kuliah/ Kelas  : Pengkodean Dan Pemrograman/E
 
-# GRAFIK DAN PLOT HASIL DATA ANALITIK 
-
-Grafik Pertama 
-
-C:\rofi 5\rofi 5\Figure_1.png
-
-
-Grafik Kedua 
-
-C:\rofi 5\rofi 5\Figure_2.png
-
-
-Plot 
-
-C:\rofi 5\rofi 5\Figure_3.png
-
-
-Grafik Ketiga 
-
-C:\rofi 5\rofi 5\Figure_4.png
