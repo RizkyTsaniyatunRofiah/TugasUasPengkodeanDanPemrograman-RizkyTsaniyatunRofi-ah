@@ -1,0 +1,16 @@
+Faktur,Tanggal,Jenis Kelamin,Jenis Barang,Jumlah,Harga Satuan
+INV001,2023-01-15,Laki-laki,Elektronik,2,500000
+INV002,2023-01-17,Perempuan,Pakaian,3,200000
+INV003,2023-01-20,Laki-laki,Makanan,5,30000
+INV004,2023-01-22,Perempuan,Elektronik,1,1500000
+INV005,2023-02-10,Laki-laki,Pakaian,2,250000
+INV006,2023-02-18,Perempuan,Makanan,10,40000
+INV007,2023-03-05,Laki-laki,Elektronik,1,800000
+INV008,2023-03-10,Perempuan,Pakaian,4,150000
+INV009,2023-03-20,Laki-laki,Makanan,6,50000
+INV010,2023-04-15,Perempuan,Elektronik,3,600000
+INV011,2023-04-25,Laki-laki,Pakaian,5,100000
+INV012,2023-05-05,Perempuan,Makanan,8,45000
+INV013,2023-05-15,Laki-laki,Elektronik,2,1000000
+INV014,2023-06-01,Perempuan,Pakaian,7,175000
+INV015,2023-06-10,Laki-laki,Makanan,12,35000
